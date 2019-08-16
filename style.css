@@ -3023,33 +3023,6 @@
 [ 6. Loding Bar ]
 ===================================*/
  
- #loading-wrap {
-     background-color: #ffffff;
-     height: 100%;
-     position: fixed;
-     width: 100%;
-     z-index: 100000;
-     top: 0;
-     left: 0;
- }
- .loading-effect {
-     width: 50px;
-     height: 50px;
-     position: absolute;
-     top: 50%;
-     left: 50%;
-     margin: -25px 0 0 -25px;
-     font-size: 10px;
-     text-indent: -12345px;
-     border-top: 1px solid rgba(49, 47, 47, 0.08);
-     border-right: 1px solid rgba(49, 47, 47, 0.08);
-     border-bottom: 1px solid rgba(49, 47, 47, 0.08);
-     border-left: 1px solid rgba(49, 47, 47, 0.5);
-     border-radius: 50%;
-     -webkit-animation: spinner 700ms infinite linear;
-     animation: spinner 700ms infinite linear;
-     z-index: 100001;
- }
  @-webkit-keyframes spinner {
      0% {
          -webkit-transform: rotate(0deg);
