@@ -1537,7 +1537,7 @@
      width: 100%;
  }
  .vbox-overlay {
-     cursor: url("../img/icons/close-x.png"), auto;
+     cursor: url("close-x.png"), auto;
  }
  .vbox-overlay img {
      cursor: default;
