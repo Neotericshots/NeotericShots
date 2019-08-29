@@ -191,7 +191,11 @@
     position: relative;
     overflow: hidden;
 }
-.vbox-container img{
+.vbox-container img-v{
+    max-width: 50%;
+    height: auto;
+}
+.vbox-container img-h{
     max-width: 100%;
     height: auto;
 }
