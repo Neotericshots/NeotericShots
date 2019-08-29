@@ -1,1 +1,1 @@
-# NeotericShots
+COPYRIGHT 2019 NEOTERIC SHOTS
